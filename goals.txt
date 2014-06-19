@@ -1,0 +1,4 @@
+1. Create and Test Login System
+2. Be able to create building
+3. Make buildings upgradable
+4. Include idea of resources
